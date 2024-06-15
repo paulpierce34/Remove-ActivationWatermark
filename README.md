@@ -10,4 +10,6 @@ HOW TO USE:
 
 
 Result:
-<img width="788" alt="image" src="https://github.com/paulpierce34/Remove-ActivationWatermark/assets/33561650/8aa8c0eb-f7df-46a8-a7ec-d0a5f3455785">
+
+
+<img width="650" alt="image" src="https://github.com/paulpierce34/Remove-ActivationWatermark/assets/33561650/8aa8c0eb-f7df-46a8-a7ec-d0a5f3455785">
