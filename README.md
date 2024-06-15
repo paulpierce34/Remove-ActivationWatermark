@@ -1,5 +1,5 @@
 # Remove-ActivationWatermark
-This is a simple PowerShell script to remove the 'Windows not Activated' watermark from your Windows 11/10 PC
+This is a simple PowerShell script to remove the 'ACtivate Windows' watermark from your Windows 11/10 PC
 
 Tested on Windows 11 Enterprise Build 22631
 
